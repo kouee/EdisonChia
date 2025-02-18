@@ -1,6 +1,6 @@
-# EdisonChia
+# Edison's Portfolio
 
-Welcome to the EdisonChia project! This is a simple static website built with HTML, CSS, and Bootstrap. The site is live and accessible via a custom domain.
+Welcome to Edison's Portfolio! This is a simple static website built with HTML, CSS, Javascript and Bootstrap. The site is live and accessible via a custom domain.
 
 ## Live Website
 
